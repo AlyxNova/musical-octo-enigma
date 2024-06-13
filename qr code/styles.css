@@ -81,6 +81,6 @@ The designs were created to the following widths:
 
 @media screen and (min-width: 320px) {
     body {
-        width: 50%;
+        width: 20rem;
     }
 }
